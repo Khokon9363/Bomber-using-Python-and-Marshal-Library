@@ -7,7 +7,7 @@
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install requests`
-* ` git clone https://github.com/mao2116/fbomb`
+* ` git clone https://github.com/Khokon9363/Bomber-using-Python-and-Marshal-Library`
 * `cd $HOME`
 * `ls`
 * `cd fbomb`
@@ -16,7 +16,7 @@
 
 
 ## ONE CLICK INSTALLATION :
-* `apt-get update -y && apt-get upgrade -y && pkg install python -y && pkg install python2 -y && pkg install git -y && pip install requests && git clone https://github.com/mao2116/fbomb && cd fbomb && python fbomb.py`
+* `apt-get update -y && apt-get upgrade -y && pkg install python -y && pkg install python2 -y && pkg install git -y && pip install requests && git clone https://github.com/Khokon9363/Bomber-using-Python-and-Marshal-Library && cd fbomb && python fbomb.py`
 
 
 ## TO RUN :
