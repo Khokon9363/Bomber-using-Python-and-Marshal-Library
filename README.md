@@ -10,20 +10,20 @@
 * ` git clone https://github.com/Khokon9363/Bomber-using-Python-and-Marshal-Library`
 * `cd $HOME`
 * `ls`
-* `cd fbomb`
+* `cd Bomber-using-Python-and-Marshal-Library`
 * `ls`
-* `python fbomb.py`
+* `python bomber.py`
 
 
 ## ONE CLICK INSTALLATION :
-* `apt-get update -y && apt-get upgrade -y && pkg install python -y && pkg install python2 -y && pkg install git -y && pip install requests && git clone https://github.com/Khokon9363/Bomber-using-Python-and-Marshal-Library && cd fbomb && python fbomb.py`
+* `apt-get update -y && apt-get upgrade -y && pkg install python -y && pkg install python2 -y && pkg install git -y && pip install requests && git clone https://github.com/Khokon9363/Bomber-using-Python-and-Marshal-Library && cd Bomber-using-Python-and-Marshal-Library && python bomber.py`
 
 
 ## TO RUN :
 ***OPEN TERMINAL AND TYPE:***
 
-* `cd fbomb`
-* `python3 fbomb.py` or `python fbomb.py`
+* `cd Bomber-using-Python-and-Marshal-Library`
+* `python3 bomber.py` or `python bomber.py`
 
 #### [Username && password]
 
